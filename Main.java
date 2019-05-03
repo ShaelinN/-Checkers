@@ -16,5 +16,7 @@ public class Main {
         checkers.add(new Board());
         checkers.setBackground(Color.MAGENTA);
         checkers.setVisible(true);
+
+        int x = 489;
     }
 }
